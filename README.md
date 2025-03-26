@@ -1,4 +1,10 @@
 # 🌸 Hey there! I'm Imane 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkxWP4ARQ/giphy.gif" width="250" alt="Kirby Typing"/>
+  <img src="https://media.giphy.com/media/ahr5MpbfATQRq/giphy.gif" width="250" alt="Cute Cat Coding"/>
+</div>
+
+
 ⭐ **Full-Stack Dev | AI/ML Enthusiast** 🐱 💖
 
 ---
