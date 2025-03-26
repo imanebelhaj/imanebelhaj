@@ -37,9 +37,9 @@
 
 ## 🪷 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&icon_color=FF69B4&title_color=FFB6C1&bg_color=0d1117&text_color=FFB6C1" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&ring=FF69B4&fire=FF69B4&currStreakLabel=FFB6C1&background=0d1117&sideNums=FFB6C1" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=tokyonight&background=0d1117&text_color=FFB6C1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imanebelhaj&show_icons=true&theme=tokyonight&icon_color=FF69B4&title_color=FFB6C1&bg_color=0d1117&text_color=FFB6C1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imanebelhaj&theme=tokyonight&ring=FF69B4&fire=FF69B4&currStreakLabel=FFB6C1&background=0d1117&sideNums=FFB6C1" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imanebelhaj&theme=tokyonight&background=0d1117&text_color=FFB6C1" />
 </p>
 
 ---
