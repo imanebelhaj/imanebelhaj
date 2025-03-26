@@ -1,7 +1,6 @@
 # 🌸 Hey there! I'm Imane 👋
 <div align="center">
   <img src="https://64.media.tumblr.com/77f414d0af3e17247a424e5d947b15d0/tumblr_mjscoibB9m1reats2o1_r2_500.gifv" width="250" alt="Kirby"/>
-  <img src="https://media.giphy.com/media/ahr5MpbfATQRq/giphy.gif" width="250" alt="Cute Cat Coding"/>
 </div>
 
 
