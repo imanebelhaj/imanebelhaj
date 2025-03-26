@@ -35,7 +35,9 @@
 ## 🪷 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imanebelhaj&theme=tokyonight&ring=FF69B4&fire=FF69B4&currStreakLabel=FFB6C1&background=0d1117&sideNums=FFB6C1" alt="GitHub Streak" />
-  <br>
+  
+
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imanebelhaj&theme=tokyonight&background=0d1117&text_color=FFB6C1" alt="Profile Details" />
 </p>
 
