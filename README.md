@@ -8,7 +8,6 @@
 ---
 
 ## 💻 My Tech Stack:
-## 💻 My Tech Stack:
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++ logo"  /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=cs" height="40" alt="C# logo"  /></a>
@@ -52,10 +51,16 @@
 </p>
 
 ---
+
+
+
 ## 👩🏻‍💻 Most Used Languages:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanebelhaj&layout=compact&langs_count=6&bg_color=0d1117&title_color=FFB6C1&text_color=FFD1DC&border_color=FF69B4&hide=html,css" alt="Top Languages" />
 </p>
+
+
+
 ---
 
 ## 💌 Let's Connect:
