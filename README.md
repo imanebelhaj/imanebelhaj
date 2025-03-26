@@ -54,15 +54,6 @@
 
 
 
-## 👩🏻‍💻 Most Used Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanebelhaj&layout=compact&langs_count=6&bg_color=0d1117&title_color=FFB6C1&text_color=FFD1DC&border_color=FF69B4&hide=html,css" alt="Top Languages" />
-</p>
-
-
-
----
-
 ## 💌 Let's Connect:
 🐦 **Twitter:** [https://x.com/imane_belh23474?s=21](#)  
 📩 **Email:** belhajimane62@gmail.com
