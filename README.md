@@ -1,10 +1,11 @@
 # 🌸 Hey there! I'm Imane 👋
 
-⭐ ** | Full-Stack Dev | AI/ML Lover** 🐱  🩷  
+⭐ **| Full-Stack Dev | AI/ML Enthusiast** 🐱 💖
 
 ---
 
 ## 💻 My Tech Stack:
+
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -33,19 +34,14 @@
 
 ---
 
-
-
 ## 🪷 GitHub Stats:
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=imanebelhaj&show_icons=true&theme=tokyonight&icon_color=FF69B4&title_color=FFB6C1&bg_color=0d1117&text_color=FFB6C1" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imanebelhaj&theme=tokyonight&ring=FF69B4&fire=FF69B4&currStreakLabel=FFB6C1&background=0d1117&sideNums=FFB6C1" />
-
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imanebelhaj&theme=tokyonight&background=0d1117&text_color=FFB6C1" />
 </p>
 
 ---
-
 
 ## 🎖️ Trophies & Achievements  
 💖 _My little collection of shiny digital medals_ ✨🏆  
@@ -62,10 +58,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanebelhaj&layout=compact&langs_count=8&theme=tokyonight&title_color=FFB6C1&bg_color=0d1117&text_color=FFB6C1" />
 </p>
 
-
-
 ---
 
 ## 💌 Let's Connect:
 🐦 **Twitter:** [https://x.com/imane_belh23474?s=21](#)  
-📩 **Email:** belhajimane62@gmail.com  
+📩 **Email:** belhajimane62@gmail.com
