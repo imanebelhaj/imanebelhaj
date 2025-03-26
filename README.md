@@ -1,6 +1,6 @@
 # 🌸 Hey there! I'm Imane 👋
 <div align="center">
-  <img src="[https://media.giphy.com/media/L1R1tvI9svkxWP4ARQ/giphy.gif](https://pin.it/5KU1hac3y)" width="250" alt="Kirby Typing"/>
+  <img src="https://www.pinterest.com/pin/30399366226502977/" width="250" alt="Kirby Typing"/>
   <img src="https://media.giphy.com/media/ahr5MpbfATQRq/giphy.gif" width="250" alt="Cute Cat Coding"/>
 </div>
 
