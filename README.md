@@ -43,9 +43,8 @@
 
 
 
-## ⭐ Most Used Languages   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanebelhaj&layout=compact&langs_count=6&theme=synthwave&title_color=FF69B4&bg_color=141321&text_color=87CEEB&border_color=FF1493" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanebelhaj&layout=compact&langs_count=6&theme=transparent&title_color=FF69B4&bg_color=FFF0F5&text_color=FFB6C1&border_color=FFD1DC&langs_exclude=html,css" alt="Top Languages" />
 </p>
 
 ---
