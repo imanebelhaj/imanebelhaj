@@ -55,5 +55,4 @@
 
 
 ## 💌 Let's Connect:
-🐦 **Twitter:** [https://x.com/imane_belh23474?s=21](#)  
 📩 **Email:** belhajimane62@gmail.com
