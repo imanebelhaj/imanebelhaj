@@ -43,8 +43,12 @@
 
 ## 🪷 GitHub Stats:
 <p align="center">
+
+  
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imanebelhaj&theme=tokyonight&ring=FF69B4&fire=FF69B4&currStreakLabel=FFB6C1&background=0d1117&sideNums=FFB6C1" alt="GitHub Streak" /> -->
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=imanebelhaj&theme=dark&background=000000&border=EBEBEB&stroke=EB2386&ring=EB2386&fire=EB2386&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EB2386" alt="GitHub Streak" /></a>
+
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=imanebelhaj&theme=dark&background=000000&border=EBEBEB&stroke=EB2386&ring=EB2386&fire=EB2386&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EB2386" alt="GitHub Streak" />
   
 
   
