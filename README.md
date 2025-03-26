@@ -35,7 +35,7 @@
   <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap logo"  /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo"  /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React logo"  /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=sqlserver" height="40" alt="SQL Server logo"  /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".NET logo"  /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux logo"  /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB logo"  /></a>
 </p>
