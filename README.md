@@ -35,7 +35,7 @@
 ## 🪷 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imanebelhaj&theme=tokyonight&ring=FF69B4&fire=FF69B4&currStreakLabel=FFB6C1&background=0d1117&sideNums=FFB6C1" alt="GitHub Streak" />
-  
+  <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imanebelhaj&theme=tokyonight&background=0d1117&text_color=FFB6C1" alt="Profile Details" />
 </p>
 
@@ -45,7 +45,7 @@
 
 ## ⭐ Most Used Languages   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanebelhaj&layout=compact&langs_count=8&theme=tokyonight&title_color=FFB6C1&bg_color=0d1117&text_color=FFB6C1" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanebelhaj&layout=compact&langs_count=6&theme=synthwave&title_color=FF69B4&bg_color=141321&text_color=87CEEB&border_color=FF1493" alt="Top Languages" />
 </p>
 
 ---
