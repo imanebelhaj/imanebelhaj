@@ -51,8 +51,3 @@
 </p>
 
 ---
-
-
-
-## 💌 Let's Connect:
-📩 **Email:** belhajimane62@gmail.com
