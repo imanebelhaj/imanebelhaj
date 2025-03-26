@@ -41,13 +41,7 @@
 
 ---
 
-## 🎖️ Trophies & Achievements  
-💖 *My little collection of shiny digital medals* ✨🏆  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanebelhaj&theme=tokyonight&title_color=FFB6C1&bg_color=0d1117&text_color=FFB6C1&layout=compact&custom_title=🏆%20My%20Trophy%20Case" alt="GitHub Trophies" />
-</p>
 
----
 
 ## ⭐ Most Used Languages   
 <p align="center">
